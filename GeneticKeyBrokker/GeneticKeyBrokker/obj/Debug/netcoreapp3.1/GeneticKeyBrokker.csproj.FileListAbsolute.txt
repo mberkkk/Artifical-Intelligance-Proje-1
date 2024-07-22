@@ -1,0 +1,14 @@
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\bin\Debug\netcoreapp3.1\GeneticKeyBrokker.exe
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\bin\Debug\netcoreapp3.1\GeneticKeyBrokker.deps.json
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\bin\Debug\netcoreapp3.1\GeneticKeyBrokker.runtimeconfig.json
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\bin\Debug\netcoreapp3.1\GeneticKeyBrokker.runtimeconfig.dev.json
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\bin\Debug\netcoreapp3.1\GeneticKeyBrokker.dll
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\bin\Debug\netcoreapp3.1\GeneticKeyBrokker.pdb
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.csproj.AssemblyReference.cache
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.AssemblyInfoInputs.cache
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.AssemblyInfo.cs
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.csproj.CoreCompileInputs.cache
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.dll
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.pdb
+C:\Users\Alper\source\repos\GeneticKeyBrokker\GeneticKeyBrokker\obj\Debug\netcoreapp3.1\GeneticKeyBrokker.genruntimeconfig.cache

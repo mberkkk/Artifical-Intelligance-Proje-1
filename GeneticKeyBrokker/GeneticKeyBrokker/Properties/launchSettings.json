@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GeneticKeyBrokker": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
